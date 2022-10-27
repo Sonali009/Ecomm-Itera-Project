@@ -9,7 +9,7 @@ public class Constants {
 	public static final String ACC_PAGE_TITLE = "- Testautomation practice page";
 	public static final int ACC_PAGE_SECTIONS_COUNT = 7;
 	
-	public static final int PRODUCT_IMAGES_COUNT_Camilla = 1;
+	public static final int PRODUCT_IMAGES_COUNT_Camilla = 7;
 	public static final String ACCOUNT_CREATION_SUCCESS_MESSG = "Registration Successful";
 	public static final String REGISTER_SHEET_NAME = "register";
 	
